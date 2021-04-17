@@ -1,6 +1,5 @@
-t# PHP-oriente-objet
-PHP-oriente-objet
-
+# PHP-oriente-objet
+Un exemple en PHP orienté object
 ### A FAIRE
 - Faire une page inded.php
    * Attribuer une valeur d'exemple aux propriétés titre, contenu et date de publication (en utilisant getter&setter)
